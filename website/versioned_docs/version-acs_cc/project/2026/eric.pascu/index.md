@@ -23,7 +23,7 @@ As a photography and videography enthusiast, I have always been fascinated by ho
 
 ## Architecture 
 
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/admin/Downloads/website/website/versioned_docs/version-acs_cc/project/2026/eric.pascu/arhitecture.svg?version%3D1777360441996)
+![Diagram](./images/arhitecture.svg)
 
 ## Log
 
