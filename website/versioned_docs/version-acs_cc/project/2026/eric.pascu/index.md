@@ -4,7 +4,7 @@ A 3-axis camera stabilizer controlled by an STM32 Nucleo, with brushless motors 
 
 :::info 
 
-**Author**: Pascu Eric
+**Author**: Pascu Eric \
 **GitHub Project Link**: https://github.com/UPB-PMRust-Students/acs-project-2026-PascuEric
 
 :::
