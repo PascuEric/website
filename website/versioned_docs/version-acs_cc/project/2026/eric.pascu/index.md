@@ -23,7 +23,7 @@ As a photography and videography enthusiast, I have always been fascinated by ho
 
 ## Architecture 
 
-![Diagram](./images/arhitecture.svg)
+![Diagram](./images/architecture.svg)
 
 ## Log
 
